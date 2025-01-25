@@ -2,7 +2,7 @@
 
 - Estado del proyecto : Finalizado
  <h3> Descripción </h3> 
-Una aplicación diseñada para realizar un sorteo aleatorio de ```Amigo Secreto``` entre una lista de nombres ingresados por el usuario 
+Una aplicación diseñada para realizar un sorteo aleatorio de "Amigo Secreto" entre una lista de nombres ingresados por el usuario 
 <h3> Funcionalidades </h3>
 
 - Agregar Nombres: Los usuarios pueden agregar nombres de amigos a una lista mediante un campo de texto y un botón para adicionar. 
